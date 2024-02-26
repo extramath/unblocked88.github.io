@@ -1,5 +1,5 @@
 <html>
-<title>monkey3three</title>
+<title>Extramath</title>
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
 <body>
@@ -9,7 +9,7 @@
         <script>
             function protectpasscode() {
                 const result = document.getElementById("tutorial").value;
-                let passcode = 12345;
+                let passcode = 1234;
                 let space = '';
                 if (result == space) {
                     alert("Type passcode")
